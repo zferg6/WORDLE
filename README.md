@@ -4,7 +4,7 @@ Description
   - I created a Python-programmed version of Wordle. This implementation allows users to guess a 5-letter word with a limited number of attempts, providing feedback on correct letters, misplaced letters, and incorrect letters.
 
 Features
-  - Interactive GUI interface unsing tkinter.
+  - Interactive GUI interface using tkinter.
   - Random word selection from a word list file.
   - Feedback system indicating correct, misplaced, and incorrect letters. 
   - Attempt counter and game status updates
